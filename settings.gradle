@@ -1,1 +1,1 @@
-include ':sample', ':logcathelper'
+include ':sample', ':library'

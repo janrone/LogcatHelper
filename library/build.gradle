@@ -5,6 +5,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'com.github.dcendents.android-maven'
 
 group='com.github.janrone.lib'
+version = '1.0'
 
 android {
     compileSdkVersion 28
