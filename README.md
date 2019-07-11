@@ -1,3 +1,6 @@
+
+[![](https://jitpack.io/v/janrone/LogcatHelper.svg)](https://jitpack.io/#janrone/LogcatHelper)
+
 How to use:
 
 Add it to your build.gradle with:
