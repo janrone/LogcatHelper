@@ -1,28 +1,4 @@
-
-[![](https://jitpack.io/v/janrone/LogcatHelper.svg)](https://jitpack.io/#janrone/LogcatHelper)
-
-How to use:
-
-Add it to your build.gradle with:
-
-        allprojects {
-            repositories {
-                maven { url "https://jitpack.io" }
-            }
-        }
-
-and:
-
-        dependencies {
-            implementation 'com.github.janrone:LogcatHelper:1.0'
-        }
-
-
-
-[![](1562839165293.jpg)](https://jitpack.io/#janrone/LogcatHelper)
-
-
-16:45:02.885 11394 11394 I pp.logcathelpe: Late-enabling -Xcheck:jni
+2019-07-11 16:45:03  07-11 16:45:02.885 11394 11394 I pp.logcathelpe: Late-enabling -Xcheck:jni
 2019-07-11 16:45:03  07-11 16:45:02.955 11394 11403 E pp.logcathelpe: Failed to send DDMS packet REAQ to debugger (-1 of 20): Broken pipe
 2019-07-11 16:45:03  07-11 16:45:03.324 11394 11394 W pp.logcathelpe: JIT profile information will not be recorded: profile file does not exits.
 2019-07-11 16:45:03  07-11 16:45:03.327 11394 11394 I chatty  : uid=10132(com.github.janrone.app.logcathelper) identical 10 lines
@@ -47,7 +23,7 @@ and:
 2019-07-11 16:45:03  07-11 16:45:03.834 11394 11422 I Adreno  : QUALCOMM build                   : a4d39a0, I6fd668c4d3
 2019-07-11 16:45:03  07-11 16:45:03.834 11394 11422 I Adreno  : Build Date                       : 10/05/18
 2019-07-11 16:45:03  07-11 16:45:03.834 11394 11422 I Adreno  : OpenGL ES Shader Compiler Version: EV031.25.03.01
-2019-07-11 16:45:03  07-11 16:45:03.834 11394 11422 I Adreno  : Local Branch                     :
+2019-07-11 16:45:03  07-11 16:45:03.834 11394 11422 I Adreno  : Local Branch                     : 
 2019-07-11 16:45:03  07-11 16:45:03.834 11394 11422 I Adreno  : Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.7.2.R1.09.00.00.442.049
 2019-07-11 16:45:03  07-11 16:45:03.834 11394 11422 I Adreno  : Remote Branch                    : NONE
 2019-07-11 16:45:03  07-11 16:45:03.834 11394 11422 I Adreno  : Reconstruct Branch               : NOTHING
