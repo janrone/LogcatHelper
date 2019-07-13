@@ -17,7 +17,11 @@ and:
             implementation 'com.github.janrone:LogcatHelper:1.0'
         }
 
+eg：
 
+        LogcatHelper.getInstance(this).start();
+        LogcatHelper.getInstance(this).stop();
+      
 
 [![](1562839165293.jpg)](https://jitpack.io/#janrone/LogcatHelper)
 
